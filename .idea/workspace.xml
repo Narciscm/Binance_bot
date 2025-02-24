@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f581869-564d-41ed-a7f8-7a115ad53ae4" name="Changes" comment="bot" />
+    <list default="true" id="6f581869-564d-41ed-a7f8-7a115ad53ae4" name="Changes" comment="bot">
+      <change afterPath="$PROJECT_DIR$/Bot test/Bot_v1_modificat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot test/Bot_v2_modificat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot test/Bot_v3_modificat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot test/Bot_v4_modificat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot test/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python Binance bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Binance bot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +28,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+    <option name="OPTIONS">
+      <set>
+        <option value="UPDATE_REFS" />
+      </set>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Narciscm&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Narciscm/Binance_bot.git&quot;,
+    &quot;accountId&quot;: &quot;45424449-823e-4478-9471-d3ee073cd324&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -32,31 +63,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1. Obinere pret crypto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Bot verificare perechi crypto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Binance_ChatGPT_Bot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bot Binance - ChatGPT.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bot_v1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bot_v1_+3%.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bot_v2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bot_v2_+3%.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bot_v3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bot_v3_+3%.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bot_v4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bot_v4_+3%.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Crypto_chatGPT.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.asda.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Narcis/Desktop&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1. Obinere pret crypto.executor": "Run",
+    "Python.1. Obtinere pret crypto.executor": "Run",
+    "Python.5. Bot verificare perechi crypto.executor": "Run",
+    "Python.Binance_ChatGPT_Bot.executor": "Run",
+    "Python.Bot Binance - ChatGPT.executor": "Run",
+    "Python.Bot_v1.executor": "Run",
+    "Python.Bot_v1_+3%.executor": "Run",
+    "Python.Bot_v1_modificat.executor": "Run",
+    "Python.Bot_v2.executor": "Run",
+    "Python.Bot_v2_+3%.executor": "Run",
+    "Python.Bot_v2_modificat.executor": "Run",
+    "Python.Bot_v3.executor": "Run",
+    "Python.Bot_v3_+3%.executor": "Run",
+    "Python.Bot_v3_modificat.executor": "Run",
+    "Python.Bot_v4.executor": "Run",
+    "Python.Bot_v4_+3%.executor": "Run",
+    "Python.Bot_v4_modificat.executor": "Run",
+    "Python.Crypto_chatGPT.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.Test2.executor": "Run",
+    "Python.asda.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Narcis/Desktop",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Narcis\Desktop" />
@@ -65,7 +101,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
       </set>
     </attachedChunks>
   </component>
@@ -158,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731616869154</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="bot">
+      <option name="closed" value="true" />
+      <created>1731616983273</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731616983273</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
