@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f581869-564d-41ed-a7f8-7a115ad53ae4" name="Changes" comment="bot">
-      <change afterPath="$PROJECT_DIR$/Bot test/Bot_v1_modificat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bot test/Bot_v2_modificat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bot test/Bot_v3_modificat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bot test/Bot_v4_modificat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bot test/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python Binance bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Binance bot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,12 +36,12 @@
     &quot;assignee&quot;: &quot;Narciscm&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Narciscm/Binance_bot.git&quot;,
-    &quot;accountId&quot;: &quot;45424449-823e-4478-9471-d3ee073cd324&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Narciscm/Binance_bot.git",
+    "accountId": "51fd7267-c702-41a5-9d86-34302357d12b"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -90,7 +81,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Narcis/Desktop",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -202,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731616983273</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="bot">
+      <option name="closed" value="true" />
+      <created>1740411061554</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740411061554</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
