@@ -2,6 +2,9 @@
 Scriptul verifica cea mai buna optiune dintr-o lista de active crypto
 si da o notificare pentru ea cu ce cantitate ar trebui cumparata de 10$
 Indicatori: < si <
+Conditii: RSI < prag, MA scrut < MA lung, MACD < signal, Pret < banda mediana Bollinger
+Cauta o scadere/subevaluare - conditii de tip oversold
+Rezulta perechi care par ieftine acum - strategie de tip contrarian/buy the dip
 """
 from binance.client import Client
 import numpy as np
