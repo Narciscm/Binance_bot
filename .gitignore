@@ -13,3 +13,11 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Test files
+Test.py
+1. Obtinere pret crypto.py
+2. Afisare lista active crypto.py
+3. Creare ordin din lista favorite dupa analiza.py
+4. Creare ordin din lista definita dupa analiza.py
+5. Bot verificare perechi crypto.py
