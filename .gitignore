@@ -21,3 +21,7 @@ Test.py
 3. Creare ordin din lista favorite dupa analiza.py
 4. Creare ordin din lista definita dupa analiza.py
 5. Bot verificare perechi crypto.py
+# Bot runtime journals
+**/signals.csv
+**/signals_v4.csv
+**/signals_v4_backup_*.csv
