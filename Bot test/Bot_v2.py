@@ -7,10 +7,15 @@ from binance.client import Client
 import numpy as np
 import talib
 import time
+import configparser
+
+# Citește cheile din fișierul config.ini
+config = configparser.ConfigParser()
+config.read('config.ini')
 
 # Configurarea cheilor API
-api_key = '4Hebb8D6vDbP7xDWuZrpcnAoSALeHaGJeqhtvDwF6IcBwxU4jyQibnTgXRqHA8zC'  # Introdu cheia API generată
-api_secret = '7eBApG93xzVymhpwIcDVj1NP99mfZTozNDWECYCA9FSfUiSZ7RCNTLGChH6vrKfm'  # Introdu cheia secretă generată
+api_key = config['binance']['api_key']  # Introdu cheia API generată
+api_secret = config['binance']['api_secret']  # Introdu cheia secretă generată
 
 # Conectarea la API-ul Binance
 client = Client(api_key, api_secret)
