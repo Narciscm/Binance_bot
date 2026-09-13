@@ -1,0 +1,15 @@
+# Secrets / configuration
+**/config.ini
+
+# Environment files
+.env
+*.env
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
